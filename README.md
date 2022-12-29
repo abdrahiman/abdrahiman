@@ -6,9 +6,9 @@
 
 Hey there 👋
 
-Hi there! I'm Derraice with a passion for creating beautiful and intuitive online experiences. Whether I'm building a simple website or a complex web application, I love finding creative solutions to complex problems. Let's work together and bring your digital dreams to life!
+Hi there! I'm abderrahim with a passion for creating beautiful and intuitive online experiences. Whether I'm building a simple website or a complex web application, I love finding creative solutions to complex problems. Let's work together and bring your digital dreams to life!
 
-Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
+Want to know more about me? [Check out my portfolio.](https://xokari.tk/)
 
 <br>
 <h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
@@ -32,12 +32,12 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 
 <br>
 
-<a href="https://github.com/Derraice">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Derraice&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/xokari">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xokari&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<a href="https://github.com/Derraice">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Derraice&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
+<a href="https://github.com/xokari">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=xokari&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="xokari's GitHub Stats" />
 </a>
 
 <br>
