@@ -9,9 +9,9 @@ My name is Matthew and I'm a computer science student from Canada. Here's some i
 - Web development.
 - Computer science.
 
-💬 Reach me by email or LinkedIn! abderrahimaneddam1@gmail.com | www.twitter.com/abderrahimOne
+💬 Reach me by email or twitter! abderrahimaneddam1@gmail.com | www.twitter.com/abderrahimOne
 
 📫 Visit my website that is severely outdated: https://abderrahim1.vercel.app
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fryingpannn&layout=compact&hide=tex)](https://github.com/anuraghazra/github-readme-stats)-->
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abderrahimOne&layout=compact&hide=tex)](https://github.com/anuraghazra/github-readme-stats)-->
 
