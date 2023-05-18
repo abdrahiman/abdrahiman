@@ -6,7 +6,7 @@
 
 🚀 Skills
 
-<p align="center">
+<p align="start">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,nodejs,sass,tailwindcss,react,nextjs,supabase,figma,vscode,git" />
   </a>
