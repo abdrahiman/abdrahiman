@@ -1,4 +1,4 @@
-# Hey There👋, I'm [Abderrahim](https://www.abderrahim1.tk/)
+# Hey There👋, I'm [Abdrahim](https://www.abderrahim1.tk/)
 
 #### I'm a proficeient Frontend Enginner from Maroc and currently surfin' around computer science.
      
