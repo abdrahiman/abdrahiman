@@ -21,5 +21,5 @@
 
 📫 Visit my website that is severely outdated: https://iabdrahim.vercel.app
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abderrahimOne&layout=compact&hide=tex)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iabdrahim&layout=compact&hide=tex)](https://github.com/anuraghazra/github-readme-stats)
 
