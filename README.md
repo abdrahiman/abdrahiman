@@ -19,7 +19,7 @@
 
 💬 Reach me by email or twitter! abderrahimaneddam1@gmail.com | www.twitter.com/abderrahimOne
 
-📫 Visit my website that is severely outdated: https://abderrahim1.vercel.app
+📫 Visit my website that is severely outdated: https://iabdrahim.vercel.app
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abderrahimOne&layout=compact&hide=tex)](https://github.com/anuraghazra/github-readme-stats)-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abderrahimOne&layout=compact&hide=tex)](https://github.com/anuraghazra/github-readme-stats)
 
