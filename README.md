@@ -2,7 +2,10 @@
 
 #### I'm a proficeient Frontend Enginner from Maroc and currently surfin' around computer science.
 <div>
+
 ![yeye](https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/blob/blob-dundundun-gif.gif)
+
+
 </div>
 
 ![wakatime](https://wakatime.com/badge/user/8617238d-9b20-4d05-9b5a-d94e1d7ff00b.svg)
