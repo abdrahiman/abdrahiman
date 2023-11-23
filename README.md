@@ -13,6 +13,10 @@
 
 </a>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hypefi&label=Profile%20views&color=0e75b6&style=flat" alt="hypefi" /> </p>
+
+
+
 🚀 Skills
 
 <p align="start">
