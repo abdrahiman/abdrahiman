@@ -1,6 +1,6 @@
-# Hey There👋, I'm [Abdrahim](https://www.abderrahim1.tk/)
+# Hey There👋, I'm Abdrahim
 
-#### I'm a proficeient Frontend Enginner from Maroc and currently surfin' around computer science.
+#### I'm a junior web developer from Maroc and currently surfing around computer science.
 <div>
 
 ![yeye](https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/blob/blob-dundundun-gif.gif)
