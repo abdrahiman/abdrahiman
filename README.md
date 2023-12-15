@@ -8,8 +8,7 @@
 </div>
 
 <a href="https://wakatime.com/@Abdrahimo">
-
-  ![wakatime](https://wakatime.com/badge/user/8617238d-9b20-4d05-9b5a-d94e1d7ff00b.svg)
+[![wakatime](https://wakatime.com/badge/user/8617238d-9b20-4d05-9b5a-d94e1d7ff00b.svg)](https://wakatime.com/@8617238d-9b20-4d05-9b5a-d94e1d7ff00b)
 
 </a>
 
