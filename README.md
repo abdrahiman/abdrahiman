@@ -7,10 +7,7 @@
 
 </div>
 
-<a href="https://wakatime.com/@Abdrahimo">
-[![wakatime](https://wakatime.com/badge/user/8617238d-9b20-4d05-9b5a-d94e1d7ff00b.svg)](https://wakatime.com/@8617238d-9b20-4d05-9b5a-d94e1d7ff00b)
-
-</a>
+<a href="https://wakatime.com/@8617238d-9b20-4d05-9b5a-d94e1d7ff00b"><img src="https://wakatime.com/badge/user/8617238d-9b20-4d05-9b5a-d94e1d7ff00b.svg" alt="Total time coded since Aug 4 2023" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iabdrahim&label=Profile%20views&color=0e75b6&style=flat" alt="hypefi" /> </p>
 
