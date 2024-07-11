@@ -17,10 +17,10 @@
 
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dart,python,cpp,sass,react,svelte,nextjs,nestjs,express,tailwindcss,figma,vim,git" />
+    <img src="https://skillicons.dev/icons?i=flutter,python,cpp,sass,react,svelte,nextjs,nestjs,express,tailwindcss,figma,vim,git" />
   </a>
 </p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iabdrahim&layout=compact&hide=tex)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdrahiman&layout=compact&hide=tex)](https://github.com/anuraghazra/github-readme-stats)
 
