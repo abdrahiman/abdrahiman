@@ -1,9 +1,7 @@
 # Hey There👋, I'm Abdrahim
 
-#### I'm a junior web developer from Maroc and currently surfing around computer science.
+#### I'm an 18y/o human being trying to learn new stuff as I breathe.
 <div>
-
-![yeye](https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/blob/blob-dundundun-gif.gif)
 
 </div>
 
